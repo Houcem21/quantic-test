@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/quantic-test/static/css/main.74763f95.css",
+    "main.js": "/quantic-test/static/js/main.325b8e0e.js",
+    "static/media/waves-purple.png": "/quantic-test/static/media/waves-purple.a0652f8a34325ce958b3.png",
+    "index.html": "/quantic-test/index.html",
+    "main.74763f95.css.map": "/quantic-test/static/css/main.74763f95.css.map",
+    "main.325b8e0e.js.map": "/quantic-test/static/js/main.325b8e0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74763f95.css",
+    "static/js/main.325b8e0e.js"
+  ]
+}
